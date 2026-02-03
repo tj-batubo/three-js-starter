@@ -59,6 +59,7 @@ This installs all dependencies defined in package.json including:
 - @types/three
 - vite
 - typescript
+- glsl plugin
 
 ---
 
